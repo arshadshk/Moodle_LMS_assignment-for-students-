@@ -1,4 +1,4 @@
-SMS Spam detection
+# SMS Spam detection
 
 Welcome to the assignment of sms spam detection.
 Its a type of learning assignment, the user just needs to open the notebook and 
